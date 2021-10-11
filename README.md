@@ -1,4 +1,4 @@
-## Firebase Url - https://netflix-clone-dab25.web.app
+## Firebase Url - <h3> https://netflix-clone-dab25.web.app </h3>
 <!-- This is the link to check the hosted netflix clone on Firebase. -->
 # Getting Started with Create React App
 
