@@ -8,7 +8,9 @@ function Row({ title, fetchUrl, isLargeRow }) {
   const [movies, setMovies] = useState([]);
 
   //React provides a snippet of code to run a statement when a condition runs
+
   useEffect(() => {
+    
     // If [], then run once else if ![] run as movie changes.
     async function fetchData() {
       const request = await axios.get(fetchUrl);
