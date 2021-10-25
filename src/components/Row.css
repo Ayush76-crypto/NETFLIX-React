@@ -3,14 +3,12 @@
   color: white;
   margin-left: 20px;
 }
-
 .row__Posters {
   display: flex;
   overflow-y: hidden;
   overflow-x: scroll;
   padding: 20px;
 }
-
 .row__Posters::-webkit-scrollbar {
   display: none;
 }

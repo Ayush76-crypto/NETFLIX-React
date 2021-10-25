@@ -4,7 +4,6 @@ import { useEffect } from "react";
 import "./Nav.css"
 
 function Nav() {
-
     const [show, handleShow] = useState(false);
 
     useEffect(() => {
